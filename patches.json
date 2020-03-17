@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "title": "Update 1.16 Hotfix",
+    "title": "Update 1.16",
     "date": 1582804800000,
     "body": "- Removes rank reset prompt screen after yesterday's update\n- Fixes for Regiment invites\n- Fix for the Quick Fix Perk not functioning as intended while used as a Specialist Perks\n- Fix for killstreaks still functioning in CDL playlists"
   }
