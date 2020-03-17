@@ -2,13 +2,13 @@
   {
     "id": 1,
     "title": "Update 1.17",
-    "date": "March 11",
+    "date": 1583884800,
     "body": "- **New Weapon - VLK Rogue**\n- **Weapon changes:**\n    - Fix for the RAM-7 variant, the \"Corrupter\" not allowing the use of any sniper scopes\n    - Fixed a bug that could create an 'infinite ammo' glitch for the Model 680\n    - Updating the ammo descriptions to the \"Bludgeoner\" LMG and the \"Skull Hammer\" Shotgun\n    - Fix for a bug where using an NVG Thermal Scope on the Grau 5.56 could cause a graphical bug\n- Increased move speed\n- Increased ADS Spread\n- Reduced ADS damage\n- Reduced far damage range\n- Extended very lethal close damage range"
   },
   {
     "id": 2,
     "title": "Update 1.16 Hotfix",
-    "date": "February 27",
+    "date": 1582761600,
     "body": "- Removes rank reset prompt screen after yesterday's update\n- Fixes for Regiment invites\n- Fix for the Quick Fix Perk not functioning as intended while used as a Specialist Perks\n- Fix for killstreaks still functioning in CDL playlists"
   }
 ]
