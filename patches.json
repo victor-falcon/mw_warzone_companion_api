@@ -20,31 +20,31 @@
   {
     "id": 2,
     "title": "February 19, 2020",
-    "date": 1582102800000,
+    "date": 1576746000000,
     "body": "**GENERAL FIXES:**\n* Fix for Regiment tags not appearing as intended\n* Fix for players receiving the \"Jockworth\" error while in Gunfight Tournaments\n* Fix for a bug where numbers on the team roster and numbers on the COD Caster minimap did not correspond\n* Pointman: Fix for an issue where Killchain scores were being given for killstreak kills without having Killchain equipped\n* Fix for a CDL Gunsmith exploit"
   },
   {
     "id": 3,
     "title": "February 14, 2020",
-    "date": 1581670800000,
+    "date": 1576314000000,
     "body": "**GENERAL FIXES**\n* Fix for a bug that allowed players to use attachments not yet earned\n* Exploit fixes on various maps and modes\n* Fixed a bug that leave a players CDL filter active after they've joined a party without CDL filters\n* Backend fixes"
   },
   {
     "id": 4,
     "title": "December 11, 2019",
-    "date": 1581411600000,
+    "date": 1576054800000,
     "body": "* **General Fixes**\n  - Fix for the R9-0 Smoothebore not appearing correctly in-game\n  - Fix for the \"Smooth Dominator\" not appearing correctly in-game\n  - Fix for the \"Heat Cycle\" weapon not appearing correctly in-game\n  - Fix for a bug where equipping the \"Old Wounds\" LMG could cause an error, kicking players out of the menu\n  - Operator challenge descriptions have been updated to indicate that a specific Operator must be equipped in order to complete the challenge\n  - If you reached a new rank while in the middle of a match and perform the criteria to complete a challenge you just unlocked, progress would not show in the UI until you entered a new match. We've done some backend work to help improve this.\n  - Fix for Objective 2 of Mara's Operator Mission showing a placeholder name 'Desert Work' for the reward\n  - Fix for Wyatt's Calling Card appearing with the incorrect rarity\n  - Fix for the Cluster Strike's missiles getting stuck on surfaces without detonating and playing looping audio the remainder of the match\n  - Fix for exploits in Special Operations: Survival"
   },
   {
     "id": 5,
     "title": "December 10, 2019",
-    "date": 1581325200000,
+    "date": 1575968400000,
     "body": "* **WHAT'S NEW:**\n  - Gunfight: OSP (replaces Gunfight)\n  - Infected (replaces Reinforce)\n  - New Ground War map, Aniyah Palace\n* **Hardcore Additions:**\n  - FFA\n  - NVG Moshpit (TDM, Kill Confirmed, Headquarters, Domination)\n  - Shoot House 24/7 (TDM, Kill Confirmed, Headquarters, Domination)"
   },
   {
     "id": 6,
     "title": "December 6, 2019",
-    "date": 1580979600,
+    "date": 1575622800000,
     "body": "* WHAT'S NEW:\n  - Shoot House 24/7 is back! (replaces Crash 24/7)\n  - Removed night maps from Hardcore modes\n  - Added Docks back into Gunfight map rotation\n  - Added Grazna Raid and Arklov Peak to Hardcore TDM\n  - Added Arklov Peak to Hardcore Headquarters\n* GENERAL FIXES:\n  - When attempting to view weapon details of a weapon in the Missions tab, players will be kicked back to the main menu. This has been fixed.\n  - Fix for the cargo ship clipping through the playable area on Docks\n  - In some cases, players were not able to see or shoot down an opposing team's Counter UAV. This has been fixed\n  - Fix for the VTOL audio persisting after being shot down\n  - Fix for a crash that could occur while prone and firing the AK-47 with a launcher and the Fully Loaded perk equipped\n  - Fix for the \"Jack Frosty\" and \"Old Wounds\" world model appearing differently than the Armory/Gunsmith models\n  - Special Operations: \"Just Reward\" – Fix for the HVT truck crashing into portions of the map\n  - Special Operations: Survival – Fix for the respawn flare not working as intended"
   }
 ]
