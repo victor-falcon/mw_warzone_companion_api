@@ -1,14 +1,50 @@
 [
   {
     "id": 1,
-    "title": "Update 1.17",
-    "date": 1583881200000,
-    "body": "- **New Weapon - VLK Rogue**\n- **Weapon changes:**\n    - Fix for the RAM-7 variant, the \"Corrupter\" not allowing the use of any sniper scopes\n    - Fixed a bug that could create an 'infinite ammo' glitch for the Model 680\n    - Updating the ammo descriptions to the \"Bludgeoner\" LMG and the \"Skull Hammer\" Shotgun\n    - Fix for a bug where using an NVG Thermal Scope on the Grau 5.56 could cause a graphical bug\n- Increased move speed\n- Increased ADS Spread\n- Reduced ADS damage\n- Reduced far damage range\n- Extended very lethal close damage range"
+    "title": "February 26, 2020",
+    "date": 1582707600000,
+    "body": "**General Fixes:**\n* Players seeing a rank reset prompt screen after yesterday's update\n* Fixes for Regiment invites\n* Fix for the Quick Fix Perk not functioning as intended while used as a Specialist Perk\n* Fix for killstreaks still functioning in CDL playlists"
   },
   {
     "id": 2,
-    "title": "Update 1.16",
-    "date": 1582804800000,
-    "body": "- Removes rank reset prompt screen after yesterday's update\n- Fixes for Regiment invites\n- Fix for the Quick Fix Perk not functioning as intended while used as a Specialist Perks\n- Fix for killstreaks still functioning in CDL playlists"
+    "title": "February 19, 2020",
+    "date": 1582102800000,
+    "body": "**GENERAL FIXES:**\n* Fix for Regiment tags not appearing as intended\n* Fix for players receiving the \"Jockworth\" error while in Gunfight Tournaments\n* Fix for a bug where numbers on the team roster and numbers on the COD Caster minimap did not correspond\n* Pointman: Fix for an issue where Killchain scores were being given for killstreak kills without having Killchain equipped\n* Fix for a CDL Gunsmith exploit"
+  },
+  {
+    "id": 3,
+    "title": "February 14, 2020",
+    "date": 1581670800000,
+    "body": "**GENERAL FIXES**\n* Fix for a bug that allowed players to use attachments not yet earned\n* Exploit fixes on various maps and modes\n* Fixed a bug that leave a players CDL filter active after they've joined a party without CDL filters\n* Backend fixes"
+  },
+  {
+    "id": 4,
+    "title": "December 11, 2019",
+    "date": 1581411600000,
+    "body": "* **General Fixes**\n  - Fix for the R9-0 Smoothebore not appearing correctly in-game\n  - Fix for the \"Smooth Dominator\" not appearing correctly in-game\n  - Fix for the \"Heat Cycle\" weapon not appearing correctly in-game\n  - Fix for a bug where equipping the \"Old Wounds\" LMG could cause an error, kicking players out of the menu\n  - Operator challenge descriptions have been updated to indicate that a specific Operator must be equipped in order to complete the challenge\n  - If you reached a new rank while in the middle of a match and perform the criteria to complete a challenge you just unlocked, progress would not show in the UI until you entered a new match. We've done some backend work to help improve this.\n  - Fix for Objective 2 of Mara's Operator Mission showing a placeholder name 'Desert Work' for the reward\n  - Fix for Wyatt's Calling Card appearing with the incorrect rarity\n  - Fix for the Cluster Strike's missiles getting stuck on surfaces without detonating and playing looping audio the remainder of the match\n  - Fix for exploits in Special Operations: Survival"
+  },
+  {
+    "id": 5,
+    "title": "December 10, 2019",
+    "date": 1581325200000,
+    "body": "* **WHAT'S NEW:**\n  - Gunfight: OSP (replaces Gunfight)\n  - Infected (replaces Reinforce)\n  - New Ground War map, Aniyah Palace\n* **Hardcore Additions:**\n  - FFA\n  - NVG Moshpit (TDM, Kill Confirmed, Headquarters, Domination)\n  - Shoot House 24/7 (TDM, Kill Confirmed, Headquarters, Domination)"
+  },
+  {
+    "id": 6,
+    "title": "December 6, 2019",
+    "date": 1580979600,
+    "body": "* WHAT'S NEW:\n  - Shoot House 24/7 is back! (replaces Crash 24/7)\n  - Removed night maps from Hardcore modes\n  - Added Docks back into Gunfight map rotation\n  - Added Grazna Raid and Arklov Peak to Hardcore TDM\n  - Added Arklov Peak to Hardcore Headquarters\n* GENERAL FIXES:\n  - When attempting to view weapon details of a weapon in the Missions tab, players will be kicked back to the main menu. This has been fixed.\n  - Fix for the cargo ship clipping through the playable area on Docks\n  - In some cases, players were not able to see or shoot down an opposing team's Counter UAV. This has been fixed\n  - Fix for the VTOL audio persisting after being shot down\n  - Fix for a crash that could occur while prone and firing the AK-47 with a launcher and the Fully Loaded perk equipped\n  - Fix for the \"Jack Frosty\" and \"Old Wounds\" world model appearing differently than the Armory/Gunsmith models\n  - Special Operations: \"Just Reward\" – Fix for the HVT truck crashing into portions of the map\n  - Special Operations: Survival – Fix for the respawn flare not working as intended"
+  },
+  {
+    "id": 7,
+    "title": "March 10, 2020",
+    "date": 1583830800000,
+    "body": "**PLAYLIST UPDATE:**\n- Added Search and Rescue\n- Added Mayhem Mosh Pit (10v10 Grind, Drop Zone, and Cranked)\n- Removing \"Boots on the Ground War\"\n\n**GENERAL FIXES:**\n- NEW Shotgun: \"VLK Rogue\"\n- Fixed a bug that prevented respawning after a Defcon Nuke had been set off in Realism Ground War\n- Increased damage to Juggernauts when being hit by a Thermite Crossbow\n- Various Exploit fixes, including fixes to Hackney Yard and Piccadilly\n- Fix for a bug where a different pistol than one that was equipped would appear when climbing a ladder\n- Fixed a bug where any charm used alongside the MP7 Bengal variant would clip through the weapon\n- Various Ground War exploit fixes\n- Fix for a bug where a constant yellow “High Alert” screen would persist after death if the player died while the perk was granted via Specialist\n- Fixed a bug in the After-Action Report that would display 0 in the Challenge field even if a Challenge had been completed\n- Fixed a bug that would spawn players elsewhere on the map after using a Tactical Insertion near the crawl space on Rust\n- Fixed a bug in the Giant Infection mode that spammed radio VO across all teammates when a player is a driver or passenger\n- Fixed a bug that allowed players to deploy throwable Field Upgrades during the round countdown. After the countdown ends, the player would still have another Field Upgrade available. This has been fixed\n- Added option to toggle a square or circular minimap\n\n**Call of Duty League:** Restricted the .357 Snake Shot in the CDL public playlist\n\n**Weapons:**\n- 725 Sawed-Off Barrel:\n    - Increased move speed\n    - Increased ADS Spread\n    - Reduced ADS damage\n    - Reduced far damage range\n    - Extended very lethal close damage range\n- Fix for the RAM-7 variant, “The Corrupter” not allowing the use of any sniper scopes\n- Fixed a bug that could create an 'infinite ammo' glitch on the Model 680\n- Updating the ammo descriptions to the “Bludgeoner” LMG and the “Skull Hammer” Shotgun\n- Fix for a bug where using an NVG Thermal Scope on the Grau 5.56 could cause a graphical bug\n\n**Missions and Challenges:**\n- Fix for a bug that only displayed the “One Shot One Kill” splash medal on screen when a sniper rifle was used. This is fixed to display whenever any one-shot weapon like shotguns or marksman rifles are used\n- Fix for the “Get 50 Kills with Light Machine Guns” challenge not tracking as intended\n- Fix for Golem’s 3rd Mission Objective, “Get 5 Kills using Lethal Equipment” not tracking properly\n- All vehicles now award progress to any challenges that require “X vehicle run over kills”\n- Updates to the splash screen and in-game HUD as players make progress in the “Alliance” Missions\n\n**Classic Special Operations:**\n- Fixed a bug that prevented players for being able to use finishing moves on enemy AI. This has been fixed\n- Bomb Squad: Fix for a bug there enemies might not spawn until after the last bomb is defused\n\n**Special Operations:** Survival - Leaderboards for Azhir Cave (night) and St. Petrograd have been added\n\n**Special Operations:**\n- Camera is now in a fixed position when reviving while prone or crouched\n- Hostages will reset to a safe area if dropped out of bounds\n- Fix match ending if the last-alive player calls in a Team Revive but goes down before the other players revive themselves.\n- Fix some instances where the juggernaut music could stay on unintentionally\n- Increase Heavy Hitter weapon perk to 2x melee damage\n- Ensure that players who are parachuting receive the ‘out of bounds’ warning if they drift out of bounds\n- Fix for hint prompts showing up while players are in last stand\n- Fix for an edge case that could prevent the 4th squad leader from spawning in during Operation Headhunter\n- Operation Just Reward: Fixed an issue where the cell phone intel would fail to drop\n- Operation Strongbox: Fixed a bug where destroying an enemy Wheelson was not granting any XP\n\n**Keyboard and Mouse:** a contextual menu is now displayed when KBM player right-click on usernames in the Social menu’s Party tab\n\n**PC:**\n- Several fixes to prevent crashes and improve stability\n- New PC players that are using the latest Battle.net client now have access to a simple, one-click way of creating their Activision account using their Battle.net credentials\n- Fixed a few cases where certain Social menu pop-up messages would display incorrectly in higher aspect ratios"
+  },
+  {
+    "id": 8,
+    "title": "March 17, 2020",
+    "date": 1584435600000,
+    "body": "**Multiplayer:**\n- Cranked Kill Confirmed\n- Mercenary Moshpit\n- Atlas Superstore 24/7 (10v10) “Doorbuster 24/7”\n- Gunfight is now St. Patrick’s Day themed!\n\n**Battle Royale:**\n- Solo Mode! That's right. Just you. \n\n**GENERAL FIXES:**\n- Fix for a rare bug where players could have increased movement speed after coming out of the Gulag and back into the game\n- Fixed a bug where players may find their weapon in a stowed position and are unable to reload or use their weapon\n- In some cases, players could become stuck under Buy Stations when prone. This has been fixed\n- The Threat UI could disappear from the screen if players complete a contract while they are being hunted from a Bounty Contract. This has been fixed\n- Updated text to “Redeploy Squadmate” to make it a little more obvious on screen when you can buy back a teammate\n- Fix for the last objective in the “Boats and Trains” Mission not tracking as intended\n- Kills are now credited to the player who downed the enemy player.\n- Fix for an exploit where players were able to shoot while downed\n- Fixed a bug where players were unable to deposit cash using balloons if their settings were set to “Contextual Tap”\n- Fixed a bug where players were able to clip into the walls in the Hospital "
   }
 ]
