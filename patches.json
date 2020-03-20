@@ -20,13 +20,13 @@
   {
     "id": 2,
     "title": "February 19, 2020",
-    "date": 1576746000000,
+    "date": 1582102800000,
     "body": "**GENERAL FIXES:**\n* Fix for Regiment tags not appearing as intended\n* Fix for players receiving the \"Jockworth\" error while in Gunfight Tournaments\n* Fix for a bug where numbers on the team roster and numbers on the COD Caster minimap did not correspond\n* Pointman: Fix for an issue where Killchain scores were being given for killstreak kills without having Killchain equipped\n* Fix for a CDL Gunsmith exploit"
   },
   {
     "id": 3,
     "title": "February 14, 2020",
-    "date": 1576314000000,
+    "date": 1581670800000,
     "body": "**GENERAL FIXES**\n* Fix for a bug that allowed players to use attachments not yet earned\n* Exploit fixes on various maps and modes\n* Fixed a bug that leave a players CDL filter active after they've joined a party without CDL filters\n* Backend fixes"
   },
   {
