@@ -1,5 +1,11 @@
 [
   {
+    "id": 12,
+    "title": "May 7th Patch",
+    "date": 1589186297000,
+    "body": "### General fixes\n\n*   Tuning all smoke challenges to be a bit more forgiving. This includes the challenge to unlock the Bruen MK9\n*   Fix to help prevent vehicle exploits\n*   Various exploit fixes, including Ground War Infected\n*   GameBattles: Fix for a few issues where players might not be able to join a new match\n*   Reduced fire delay on the Lightweight and Match Grade trigger attachments on all .357 calibers\n*   .357 Snake Shot damage rebalance\n*   Fixed a bug where the damage on the .357 Snake Shot was too high at longer distances"
+  },
+  {
     "id": 11,
     "title": "April 28TH, 2020",
     "date": 1588250408000,
